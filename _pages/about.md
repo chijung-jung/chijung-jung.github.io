@@ -8,23 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I’m an Ph.D. student in the Department of Computer Science at the [University of Virginia](XXX) and working with Prof. [Yonghwi Kwon](XXX). I received my master degree in Industrial and Systems Engineering from the Korea Advanced Institute of Science and Technology (KAIST), and bachelor degree in Mechanical Engineering from the Korea Military Academy.
-
-My research interests include computer security (data-driven security and usable security) and software engineering (fault localization and debugging).
-I hope that my research
+I’m an Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu/) and working with Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/#summary). My research interests include software engineering (fault localization and debugging). and computer security (data-driven security and usable security).
 
 # Publications
 
-1. [FSE 2021] Swarmbug
-1. [CCS 2021] Spinner
-1.
+1. [FSE'21] Swarmbug: Debugging Configuration Bugs in Swarm Robotics, In Proc. of 29th ACM SIGSOFT International Symposium on the Foundations of Software Engineering
+   **Chijung Jung**, Ali Ahad, Jinho Jung, Sebastian Elbaum, and Yonghwi Kwon
+
+1. [CCS 2021] Spinner: Automated Dynamic Command Subsystem Perturbation, In Proc. of 28th ACM Conference on Computer and Communications Security
+   Meng Wang, **Chijung Jung**, Ali Ahad, and Yonghwi Kwon
 
 # Education
 
-# Interests and Activities
-
-- Reading a book
-- Marathon
+- August 2019 ~ Present
+  Ph.D. student, University of Virginia
+- March 2014 ~ March 2016
+  Master of Engeering in Industrial and Systems Engineering, the Korea Advanced Institute of Science and Technology (KAIST), Korea
+  Thesis: "Intelligent Behavior Modeling on Information Delivery of Time-
+  Sensitive Targets"
+  Supervised by Prof. [Il-chul Moon](https://aailab.kaist.ac.kr/xe2/members_professor/6749)
+- March 2004 ~ March 2008
+  Bachelor of Science in Mechanical Engineering and Bachelor of Military Art and Science
+  Korea Military Academy, Korea
 
 # Contact
 

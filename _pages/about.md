@@ -12,31 +12,24 @@ I’m an Ph.D. student in the [Department of Computer Science](https://engineeri
 
 # Publications
 
-1. [FSE'21] Swarmbug: Debugging Configuration Bugs in Swarm Robotics, In Proc. of 29th ACM SIGSOFT International Symposium on the Foundations of Software Engineering
-
+1. [FSE'21] Swarmbug: Debugging Configuration Bugs in Swarm Robotics, In Proc. of 29th ACM SIGSOFT International Symposium on the Foundations of Software Engineering  
    **Chijung Jung**, Ali Ahad, Jinho Jung, Sebastian Elbaum, and Yonghwi Kwon
 
-1. [CCS'21] Spinner: Automated Dynamic Command Subsystem Perturbation, In Proc. of 28th ACM Conference on Computer and Communications Security
-
+1. [CCS'21] Spinner: Automated Dynamic Command Subsystem Perturbation, In Proc. of 28th ACM Conference on Computer and Communications Security  
    Meng Wang, **Chijung Jung**, Ali Ahad, and Yonghwi Kwon
 
 # Education
 
-- August 2019 ~ Present
-
+- August 2019 ~ Present  
   Ph.D. student, University of Virginia
 
-- March 2014 ~ March 2016
-
-  Master of Engeering in Industrial and Systems Engineering, the Korea Advanced Institute of Science and Technology (KAIST), Korea
-
+- March 2014 ~ March 2016  
+  Master of Engeering in Industrial and Systems Engineering, the Korea Advanced Institute of Science and Technology (KAIST), Korea  
   Thesis: "Intelligent Behavior Modeling on Information Delivery of Time-
-  Sensitive Targets"
-
+  Sensitive Targets"  
   Supervised by Prof. [Il-chul Moon](https://aailab.kaist.ac.kr/xe2/members_professor/6749)
 
-- March 2004 ~ March 2008
-
+- March 2004 ~ March 2008  
   Bachelor of Science in Mechanical Engineering and Bachelor of Military Art and Science
   Korea Military Academy, Korea
 

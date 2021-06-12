@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu/) and working with Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/#summary). My research interests include software engineering (fault localization and debugging). and computer security (data-driven security and usable security).
+I’m an Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu/) and working with Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/#summary). My research interests include software engineering (fault localization and debugging) and computer security (data-driven security and usable security).
 
 # Publications
 

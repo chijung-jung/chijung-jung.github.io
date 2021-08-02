@@ -11,12 +11,14 @@ redirect_from:
 I’m an Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu/) and working with Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/#summary). My research interests include software engineering (fault localization and debugging) and computer security (data-driven security and usable security).
 
 # Publications
+1. [ASE'21 (NIER)] Defeating program analysis techniques via Ambiguous Translation, In Proc. of 36th IEEE/ACM International Conference on Automated Software Engineering (New Ideas and Emerging Results Track)
+    > **Chijung Jung**, Doowon Kim, Weihang Wang, Yunhui Zheng, Kyu Hyung Lee, and Yonghwi Kwon
 
 1. [FSE'21] Swarmbug: Debugging Configuration Bugs in Swarm Robotics, In Proc. of 29th ACM SIGSOFT International Symposium on the Foundations of Software Engineering  
-   **Chijung Jung**, Ali Ahad, Jinho Jung, Sebastian Elbaum, and Yonghwi Kwon
+    > **Chijung Jung**, Ali Ahad, Jinho Jung, Sebastian Elbaum, and Yonghwi Kwon
 
 1. [CCS'21] Spinner: Automated Dynamic Command Subsystem Perturbation, In Proc. of 28th ACM Conference on Computer and Communications Security  
-   Meng Wang, **Chijung Jung**, Ali Ahad, and Yonghwi Kwon
+    > Meng Wang, **Chijung Jung**, Ali Ahad, and Yonghwi Kwon
 
 # Education
 

@@ -11,7 +11,7 @@ redirect_from:
 I’m an Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu/) and working with Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/#summary). My research interests include software engineering (fault localization and debugging) and computer security (data-driven security and usable security).
 
 # Publications
-1. [S&P'22] SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms, In Proc. of the 43rd IEEE Symposium on Security and Privacy
+1. [S&P'22] SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms, In Proc. of the 43rd IEEE Symposium on Security and Privacy  
     **Chijung Jung**, Ali Ahad, Yuseok Jeon, and Yonghwi Kwon
 
 1. [ASE'21 (NIER)] Defeating program analysis techniques via Ambiguous Translation, In Proc. of 36th IEEE/ACM International Conference on Automated Software Engineering (New Ideas and Emerging Results Track)  

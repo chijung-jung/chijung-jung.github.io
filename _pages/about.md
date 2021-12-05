@@ -11,6 +11,9 @@ redirect_from:
 I’m an Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu/) and working with Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/#summary). My research interests include software engineering (fault localization and debugging) and computer security (data-driven security and usable security).
 
 # Publications
+1. [ICSE'22] Hiding Critical Program Components via Ambiguous Translation, In Proc. of the 44th International Conference on Software Engineering   
+    **Chijung Jung**, Doowon Kim, An Chen, Weihang Wang, Yunhui Zheng, Kyu Hyung Lee, and Yonghwi Kwon
+
 1. [S&P'22] SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms, In Proc. of the 43rd IEEE Symposium on Security and Privacy  
     **Chijung Jung**, Ali Ahad, Yuseok Jeon, and Yonghwi Kwon
 

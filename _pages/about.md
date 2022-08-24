@@ -11,6 +11,11 @@ redirect_from:
 I’m a Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu/) and working with Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/#summary). My research interests include software engineering (fault localization and debugging) and computer security (software reverse engineering).
 
 # Publications
+1. [WISA'22] Dazzle-attack: Anti-Forensic Server-side Attack via Fail-free Dynamic State Machine, In Proc. of the 23rd World Conference on Information Security Applications
+    Bora Lee*, Kyungchan Lim* (*: co-first authors), JiHo Lee, **Chijung Jung**, Doowon Kim, Kyu Hyung Lee, Haehyun Cho, and Yonghwi Kwon
+    *Best Student Paper Award*
+
+
 1. [ICSE'22] Hiding Critical Program Components via Ambiguous Translation, In Proc. of the 44th International Conference on Software Engineering   
     **Chijung Jung**, Doowon Kim, An Chen, Weihang Wang, Yunhui Zheng, Kyu Hyung Lee, and Yonghwi Kwon
 

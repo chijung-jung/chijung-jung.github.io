@@ -12,7 +12,7 @@ I’m a Ph.D. student in the [Department of Computer Science](https://engineerin
 
 # Publications
 1. [WISA'22] Dazzle-attack: Anti-Forensic Server-side Attack via Fail-free Dynamic State Machine, In Proc. of the 23rd World Conference on Information Security Applications   
-    Bora Lee*, Kyungchan Lim* (*: co-first authors), JiHo Lee, **Chijung Jung**, Doowon Kim, Kyu Hyung Lee, Haehyun Cho, and Yonghwi Kwon
+    Bora Lee\*, Kyungchan Lim\* (\*: co-first authors), JiHo Lee, **Chijung Jung**, Doowon Kim, Kyu Hyung Lee, Haehyun Cho, and Yonghwi Kwon   
     *Best Student Paper Award*
 
 
